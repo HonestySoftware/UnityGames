@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BacLostCookie.data.unityweb",
+"asmCodeUrl": "BacLostCookie.asm.code.unityweb",
+"asmMemoryUrl": "BacLostCookie.asm.memory.unityweb",
+"asmFrameworkUrl": "BacLostCookie.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

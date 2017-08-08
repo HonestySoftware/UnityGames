@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CookieWizard.data.unityweb",
+"asmCodeUrl": "CookieWizard.asm.code.unityweb",
+"asmMemoryUrl": "CookieWizard.asm.memory.unityweb",
+"asmFrameworkUrl": "CookieWizard.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
